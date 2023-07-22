@@ -13,7 +13,7 @@
   <h2>Table of Contents</h2>
   <ul>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contribution">Contributing</a></li>
   </ul>
 
   <h2 id="installation">Installation</h2>
@@ -24,7 +24,7 @@
 $ cd Final_Project
 </code></pre>
 
-  <h2 id="contributing">Contributing</h2>
+  <h2 id="contribution">Contribution</h2>
   <p>
     The final project is written in python with my classmate whose username is Bai1026
   </p>
